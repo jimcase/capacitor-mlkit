@@ -13,24 +13,19 @@
     "ios/Plugin/",
     "JimcaseBarcodeScanning.podspec"
   ],
-  "author": "Robin Genz <mail@robingenz.dev>",
+  "author": "Jaime Caso",
   "license": "Apache-2.0",
-  "homepage": "https://capawesome.io/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capawesome-team/capacitor-mlkit.git"
+    "url": "git+https://github.com/jimcase/capacitor-mlkit.git"
   },
   "bugs": {
-    "url": "https://github.com/capawesome-team/capacitor-mlkit/issues"
+    "url": "https://github.com/jimcase/capacitor-mlkit/issues"
   },
   "funding": [
     {
       "type": "github",
-      "url": "https://github.com/sponsors/capawesome-team/"
-    },
-    {
-      "type": "opencollective",
-      "url": "https://opencollective.com/capawesome"
+      "url": "https://github.com/sponsors/jimcase/"
     }
   ],
   "keywords": [
